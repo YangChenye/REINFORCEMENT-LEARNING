@@ -1,2 +1,2 @@
 # REINFORCEMENT-LEARNING
- Columbia University Reinforcement Learning course
+ Columbia University ELEN E6885 Reinforcement Learning
